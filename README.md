@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajesh Thapa.
 - 👀 I’m interested in full-stack development.
-- 🌱 I’m currently learning JS frameworks.
+- 🌱 I’m currently learning JS libraries.
 
 
 <!---
