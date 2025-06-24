@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtjsh&label=Profile%20views&color=0e75b6&style=flat" alt="rtjsh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rtjsh" alt="rtjsh" /></a> </p>
-
 - 🔭 I’m currently working on [Job Tracker](job-tracker-lime-three.vercel.app)
 
 - 🌱 I’m currently learning **JS libraries.**
