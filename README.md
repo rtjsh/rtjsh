@@ -2,9 +2,6 @@
 <h3 align="left">A passionate frontend developer from Nepal</h3>
 
 
-
-- 🔭 I’m currently working on [Job Tracker](https://job-tracker-lime-three.vercel.app/)
-
 - 🌱 I’m currently learning **JS libraries.**
 
 - 👨‍💻 All of my projects are available at [https://www.trajesh.com.np](https://www.trajesh.com.np)
